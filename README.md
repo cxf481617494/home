@@ -1,16 +1,15 @@
 <p>
-<strong><h2>無名の主页 </h2></strong>
-简单的小主页，原来的看够了，重新弄了一个
+<strong><h2>亦失の主页 </h2></strong>
 </p>
 
-![無名の主页](https://img.imsyy.top/other/imsyy-home.png)
+![home.png](https://s2.loli.net/2022/12/11/mkNpeDP8QUBwzKs.png)
 
 >主页的名称字体已经过压缩，若用名称以外的字母会变回默认字体，这里是 [完整字体](https://cdn.jsdelivr.net/gh/imsyy/file/font/Pacifico-Regular.ttf)
 
 ### Demo
 >由于 CDN 缓存原因，查看最新效果可能需要 `Ctrl` + `F5` 强制刷新浏览器缓存
 
-- [無名の主页](https://www.imsyy.top)
+- [亦失の主页](https://www.imsyy.top)
 
 ### 功能
 
@@ -37,5 +36,3 @@
 * [小歪 API](https://api.ixiaowai.cn/)
 * [天气 API](https://www.tianqiapi.com/)
 * [Hitokoto 一言](https://hitokoto.cn/)
-
-<a title="SSL" target="_blank" href="https://myssl.com/seal/detail?domain=blog.imsyy.top"><img src="https://img.shields.io/badge/MySSL-安全认证-brightgreen"></a>&nbsp;<a title="CDN" target="_blank" href="https://cdnjs.com/"><img src="https://img.shields.io/badge/CDN-Cloudflare-blue"></a>&nbsp;<a title="Copyright" target="_blank" href="https://imsyy.top/"><img src="https://img.shields.io/badge/Copyright%20%C2%A9%202020--2022-%E7%84%A1%E5%90%8D-red"></a>
